@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "buildCommand": "cd library-management && npm install && npm run build",
+  "outputDirectory": "library-management/build",
+  "installCommand": "cd library-management && npm install",
+  "framework": "create-react-app"
+}
